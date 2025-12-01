@@ -1,0 +1,50 @@
+.momo-trust-display-regular {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body{
+    background-color: rgb(21, 97, 37);
+    color: white;
+    font-family: "Momo Trust Display", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0;
+    font-size: 1.5rem;
+}
+   button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    font-size: 1.5rem;
+}   
+ 
+button:hover{
+  background-color:#64A712
+  cornflowerblue
+  border: 4px solid rgb(21, 97, 37)
+  border: radius 15px;
+}
+
+.passo{
+display:none;
+}
+.ativo{
+  display: block;
+}
+main{
+  text-align: center;
+  max-width:90%;
+}
+
+img{
+  max-width: 600px;
+}
+
+.pico{
+  width: 600px;
+}
